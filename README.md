@@ -1,1 +1,1 @@
-This is a code description file
+The command uname prints the system info when run without any option
